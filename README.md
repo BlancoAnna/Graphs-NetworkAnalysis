@@ -1,2 +1,2 @@
-# KR
-Several seminars done in the Knowledge Representation's class.
+# Graphs and Network Analysis
+Several seminars done in the Graphs and Network Analysis' class.
